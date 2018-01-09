@@ -1,3 +1,6 @@
+## Chomp Problem:
+  Designing a chomp as described https://en.wikipedia.org/wiki/Chomp with top left bit as poison
+
 #### ENVIRONMENT:
     PYTHON:2.7
     TESTS: pytest
@@ -10,9 +13,6 @@
  
  ![IMAGE](https://github.com/TejjeT/Choco_chomp/blob/master/chomp.jpeg) 
  
-  
-##### Problem statement:
-  Designing a chomp as described https://en.wikipedia.org/wiki/Chomp with top left bit as poison
   
   The solution used alpha beta pruning approach (optimized version of minimax) to calculate all the possible moves
   of an existing state of the game and take a step based on the heuristic function(named as <b>utility</b> in our case).
