@@ -1,0 +1,13 @@
+[run]
+# Omit testing installed packages
+omit =
+    # Local files
+    *__init__.py
+    *test*
+
+[report]
+# Show lines missing status in report
+show_missing = True
+# Automatically ignore these blocks of code
+exclude_lines =
+    if __name__ == .__main__.
