@@ -10,5 +10,5 @@ test:
   override:
     - python --version;
       pytest --version;
-  	- mkdir -p $CIRCLE_TEST_REPORTS/python
+    - mkdir -p $CIRCLE_TEST_REPORTS/python
     - pytest --junitxml=$CIRCLE_TEST_REPORTS/python/junit.xml
