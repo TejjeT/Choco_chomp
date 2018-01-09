@@ -7,10 +7,11 @@
     
 #### Solution:
  Please refer to the following image (Chomp.jpeg) for the Class diagram
- ![IMAGE](raw/master/chomp.jpeg) 
+ 
+ ![IMAGE](https://github.com/TejjeT/Choco_chomp/blob/master/chomp.jpeg) 
  
   
-#####Problem statement:
+##### Problem statement:
   Designing a chomp as described https://en.wikipedia.org/wiki/Chomp with top left bit as poison
   
   The solution used alpha beta pruning approach (optimized version of minimax) to calculate all the possible moves
@@ -83,6 +84,7 @@ please enter an input [(1, 0), (0, 1)]
 [(2, 3), (2, 0), (0, 3), (0, 2), (1, 1), (1, 0), (0, 1)]_alpha_beta has won the game
 
 ```
+  * The sys.out will only show who has one the game.. For complete moves please take a look at the log folder located at <project_dir>/logs/choco_chomp.log
         
 #### Testing Scenarios:
 How to test:
