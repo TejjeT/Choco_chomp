@@ -1,5 +1,4 @@
 machine:
-  environment:
   python:
     version: 2.7.14
 
