@@ -133,5 +133,4 @@ This structure primarily helps us in maintaining fixed game structure
 - [ ] User Defined Exceptions
 - [x] CircleCI integration
 - [x] pytest
-- [ ] Better exception handling
-
+- [ ] Better exception handling and doc Strings may be?
