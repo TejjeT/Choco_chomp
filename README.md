@@ -125,3 +125,13 @@ How to test:
 http://aima.cs.berkeley.edu/python/games.html. 
 This is also available in several CS classes including in Udacity's github location.
 This structure primarily helps us in maintaining fixed game structure
+
+
+### TODO's
+
+- [ ] Unit Tests
+- [ ] User Defined Exceptions
+- [x] CircleCI integration
+- [x] pytest
+- [ ] Better exception handling
+
