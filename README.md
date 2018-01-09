@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/TejjeT/Choco_chomp.svg?style=svg)](https://circleci.com/gh/TejjeT/Choco_chomp)
 ## Chomp Problem:
   Designing a chomp as described https://en.wikipedia.org/wiki/Chomp with top left bit as poison
 
